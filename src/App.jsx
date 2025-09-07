@@ -19,7 +19,6 @@ function App() {
     instructions: '',
     imageUrl: '',
   })
-  //const [userInput, setUserInput] = useState([])
   const [savedRecipes, setSavedRecipes] = useState([])
 
   /*const handleSubmit = (e) => {
